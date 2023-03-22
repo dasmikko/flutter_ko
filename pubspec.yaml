@@ -23,7 +23,7 @@ environment:
 dependencies:
   bbob_dart: 0.2.0-dev.1
   get: 4.6.5
-  dio: 4.0.6
+  dio: ^5.0.3
   cached_network_image: 3.2.3
   timeago: 3.3.0
   intl: 0.17.0
